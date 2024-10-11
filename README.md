@@ -1,5 +1,7 @@
 # Terraform Provider for AWS Redshift
 
+Forked from main repo
+
 This provider allows to manage with Terraform [AWS Redshift](https://aws.amazon.com/redshift/) objects like users, groups, schemas, etc..
 
 It's published on the [Terraform registry](https://registry.terraform.io/providers/brainly/redshift/latest/docs).
